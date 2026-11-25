@@ -1,0 +1,18 @@
+{
+  "android": {
+    "latestVersionCode": 9,
+    "minVersionCode": 9,
+    "storeUrl": "market://details?id=com.usaac.watersortlagoon"
+  },
+  "ios": {
+    "latestBuild": "8",
+    "minBuild": "8",
+    "storeUrl": ""
+  },
+  "message": {
+    "title": "A fresh update is here!",
+    "body": "A new version of Water Sort Puzzle: Lagoon is ready with fixes and improvements. Your progress stays safe.",
+    "forceTitle": "Update required",
+    "forceBody": "This version is no longer supported. Please update to keep playing. Your progress is saved on this device."
+  }
+}
